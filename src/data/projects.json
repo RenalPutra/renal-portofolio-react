@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Aplikasi web Surat Menyurat Desa Kerta Buana",
+    "imageSrc": "projects/surat-2.png",
+    "description": "Project PKM pengabdian untuk membantu desa sekitar dengan teknologi ",
+    "skills": ["Python", "Django", "MySQL", "Bootstrap"],
+    "demo": "https://kertabuana.desa.id/",
+    "source": "https://github.com/RenalPutra/e-surat-kerta-buana"
+  },
+  {
+    "title": "Website Discover Film",
+    "imageSrc": "projects/film.png",
+    "description": "Project freelance dari client untuk membuat website mengenai Film untuk menemukan film-film terbaru.",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://renal-movie-update.web.app/",
+    "source": "https://github.com/RenalPutra/discover-film-API"
+  },
+  {
+    "title": "Website Restaurant (Frontend)",
+    "imageSrc": "projects/eat.png",
+    "description": "Project yang dibuat untuk mempelajari sebuah framework yaitu ReactJS",
+    "skills": ["React", "Tailwind", "Node"],
+    "demo": "https://best-eat-renal.vercel.app/",
+    "source": "https://github.com/RenalPutra/best-eat-renal"
+  },
+  {
+    "title": "Website update cuaca",
+    "imageSrc": "projects/cuaca.png",
+    "description": "Project freelance dari client untuk membuat website mengenai update data cuaca.",
+    "skills": ["Python", "Django", "MySQL"],
+    "demo": "https://drive.google.com/file/d/1Iexza33NehuMPAhEhVHwNZYJpe5Oe4EU/view?usp=sharing",
+    "source": "https://github.com/RenalPutra/cuaca-django"
+  },
+  {
+    "title": "Website resep masakan",
+    "imageSrc": "projects/masakan.png",
+    "description": "Project freelance dari client untuk membuat website mengenai resep masakan.",
+    "skills": ["Python", "Django", "MySQL"],
+    "demo": "https://drive.google.com/file/d/1NRDxQSq15YU0T3tixgev2gU-PRjY2A02/view?usp=sharing",
+    "source": "https://github.com/RenalPutra/masakan-django"
+  },
+  {
+    "title": "Website Keagamaan",
+    "imageSrc": "projects/agama.png",
+    "description": "Project freelance dari client untuk membuat website mengenai agama islam & doa-doa.",
+    "skills": ["Python", "Django", "MySQL"],
+    "demo": "https://drive.google.com/file/d/1v7e9vpvqdMtElHN3SkzzzPJO780z0PJ0/view?usp=sharing",
+    "source": "https://github.com/RenalPutra/sholat-django"
+  }
+]

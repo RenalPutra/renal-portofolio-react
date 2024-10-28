@@ -1,0 +1,28 @@
+[
+  {
+    "role": "FullStack Developer Django",
+    "organisation": "Freelance",
+    "startDate": "2023",
+    "endDate": "Present",
+    "experiences": [
+      "Develop aplikasi web surat menyurat desa",
+      "Develop aplikasi web update cuaca",
+      "Develop aplikasi web resep masakan",
+      "Develop aplikasi web keagamaan"
+    ],
+    "imageSrc": "history/freelance.png"
+  },
+  {
+    "role": "IT Support Internship",
+    "organisation": "PT BBE",
+    "startDate": "Juli, 2023",
+    "endDate": "Otober, 2023",
+    "experiences": [
+      "Mengelola infrastruktur IT di tiga gedung",
+      "Instalasi dan merawat CCTV serta perangkat keras lainnya",
+      "Develop web profile perusahaan PT BBE",
+      "Develop web router mikrotik perusahaan"
+    ],
+    "imageSrc": "history/BBE.png"
+  }
+]
